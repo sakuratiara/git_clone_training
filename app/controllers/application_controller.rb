@@ -6,4 +6,8 @@ class ApplicationController < ActionController::Base
 
   def bbb
   end
+
+  def fff
+
+  end
 end
