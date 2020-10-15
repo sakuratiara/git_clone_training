@@ -6,4 +6,6 @@ class ApplicationController < ActionController::Base
 
   def bbb
   end
+
+  hugahuga
 end
