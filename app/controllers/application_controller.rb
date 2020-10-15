@@ -5,6 +5,7 @@ class ApplicationController < ActionController::Base
   end
 
   def bbb
+    hogehoge
   end
 
   def ccc
