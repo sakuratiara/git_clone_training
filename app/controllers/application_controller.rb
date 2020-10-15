@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   def aaa
-    
+    rrr
   end
 
   def bbb
