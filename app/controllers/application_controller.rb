@@ -3,4 +3,7 @@ class ApplicationController < ActionController::Base
     hogehoge
     hugahuga
   end
+
+  def bbb
+  end
 end
