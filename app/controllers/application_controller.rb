@@ -6,8 +6,4 @@ class ApplicationController < ActionController::Base
 
   def bbb
   end
-
-  hugahuga
-
-  private
 end
