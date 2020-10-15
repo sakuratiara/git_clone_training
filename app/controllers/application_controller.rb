@@ -1,12 +1,9 @@
 class ApplicationController < ActionController::Base
   def aaa
-    rrr
+    hogehoge
+    hugahuga
   end
 
   def bbb
-    hogehoge
-  end
-
-  def ccc
   end
 end
